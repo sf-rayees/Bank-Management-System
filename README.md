@@ -1,15 +1,17 @@
 # Bank Management System
 
-This is a simple bank management system developed in [insert programming language(s) here] to manage the operations of a bank. The system provides functionalities such as creating and managing customer accounts, depositing and withdrawing funds, transferring money between accounts, and generating reports.
+This is a simple bank management system developed in Java and database MySQL to manage the operations of a bank. The system provides functionalities such as creating and managing customer accounts, depositing and withdrawing funds, transferring money between accounts.
 
 ## Features
 
-- **Account Management**: Create, update, and delete customer accounts.
-- **Transaction**: Deposit, withdraw, and transfer funds between accounts.
-- **Report Generation**: Generate reports for account transactions, balances, etc.
-- **Security**: Ensure the security of customer data and transactions.
-- **User Management**: Admin panel to manage user roles and permissions.
-- **Audit Trail**: Track and log all system activities for auditing purposes.
+- **User Registeration**
+- **User Login**
+- **Account Setup**
+- **Security PIN**
+- **Debit Money**
+- **Credit Money**
+- **Transfer Money**
+- **Check Balance**
 
 ## Technologies Used
 
@@ -25,4 +27,4 @@ This is a simple bank management system developed in [insert programming languag
 - Download Connector/J and set it up.
 - Create a Java Project.
 - Download and replace the project App.js present in file/src with the Repository App.js.
-- Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java". Alternatively, you can use the integrated terminal to compile and run your Java program manually.
+- Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java".
