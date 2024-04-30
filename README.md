@@ -33,5 +33,5 @@ This is a simple bank management system developed in Java and database MySQL to 
   ![account](https://github.com/sf-rayees/Bank-Management-System/assets/161186699/f49034c7-748d-4360-8b1e-4e35ab46186c)
 - Download Connector/J and set it up.
 - Create a Java Project.
-- Download and replace the project App.js present in file/src with the Repository App.js.
+- Download and replace the project App.java present in file/src with the Repository App.java.
 - Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java".
