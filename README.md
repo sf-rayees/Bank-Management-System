@@ -36,4 +36,4 @@ This is a simple bank management system developed in Java and database MySQL to 
 - Download and replace the project App.java present in file/src with the Repository App.java.
 - Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java".
 
-  #Developer: Sheikh Faisal Rayees
+  # Developer: Sheikh Faisal Rayees
