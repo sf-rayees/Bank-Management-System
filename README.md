@@ -26,7 +26,9 @@ This is a simple bank management system developed in Java and database MySQL to 
 - Install MySQL.
 - create a database named "bank".
 - Create a table with name "user" and with the following details:
-- ![user](https://github.com/sf-rayees/Bank-Management-System/assets/161186699/41a9358c-326f-4f0b-92c7-aa788b6c1e5c)
+  ![user](https://github.com/sf-rayees/Bank-Management-System/assets/161186699/41a9358c-326f-4f0b-92c7-aa788b6c1e5c)
+- Create a table with name "accounts" and with the following details:
+  ![account](https://github.com/sf-rayees/Bank-Management-System/assets/161186699/f49034c7-748d-4360-8b1e-4e35ab46186c)
 - Download Connector/J and set it up.
 - Create a Java Project.
 - Download and replace the project App.js present in file/src with the Repository App.js.
