@@ -24,6 +24,9 @@ This is a simple bank management system developed in Java and database MySQL to 
 - Install Visual Studio Code.
 - Install Java Extension Pack in Visual Studio Code.
 - Install MySQL.
+- create a database named "bank".
+- Create a table with name "user" and with the following details:
+- ![Alt Text](image_url)
 - Download Connector/J and set it up.
 - Create a Java Project.
 - Download and replace the project App.js present in file/src with the Repository App.js.
