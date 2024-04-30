@@ -13,8 +13,9 @@ This is a simple bank management system developed in [insert programming languag
 
 ## Technologies Used
 
-- [Insert programming language(s) used]
-- [Insert frameworks and libraries used]
-- [Insert database used, if any]
+- Java: The core logic of the Flight Booking System is implemented in Java programming language, providing robustness and platform independence.
+- MySQL Database: The system utilizes a MySQL database to store flight information, user data, and booking details, ensuring data integrity and scalability.
+
+- JDBC (Java Database Connectivity): JDBC is used to establish a connection between the Java application and the MySQL database, enabling seamless interaction with the database.
 
 ## Installation
