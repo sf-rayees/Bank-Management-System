@@ -1,4 +1,4 @@
-# Bank Management System
+/# Bank Management System
 
 This is a simple bank management system developed in Java and database MySQL to manage the operations of a bank. The system provides functionalities such as creating and managing customer accounts, depositing and withdrawing funds, transferring money between accounts.
 
@@ -26,7 +26,7 @@ This is a simple bank management system developed in Java and database MySQL to 
 - Install MySQL.
 - create a database named "bank".
 - Create a table with name "user" and with the following details:
-- ![Alt Text]([image_url](https://github.com/sf-rayees/Bank-Management-System/blob/main/user.png))
+- ![Alt Text]((https://github.com/sf-rayees/Bank-Management-System/blob/main/user.png)
 - Download Connector/J and set it up.
 - Create a Java Project.
 - Download and replace the project App.js present in file/src with the Repository App.js.
