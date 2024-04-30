@@ -15,7 +15,14 @@ This is a simple bank management system developed in [insert programming languag
 
 - Java: The core logic of the Flight Booking System is implemented in Java programming language, providing robustness and platform independence.
 - MySQL Database: The system utilizes a MySQL database to store flight information, user data, and booking details, ensuring data integrity and scalability.
-
 - JDBC (Java Database Connectivity): JDBC is used to establish a connection between the Java application and the MySQL database, enabling seamless interaction with the database.
 
 ## Installation
+
+- Install Visual Studio Code.
+- Install Java Extension Pack in Visual Studio Code.
+- Install MySQL.
+- Download Connector/J and set it up.
+- Create a Java Project.
+- Download and replace the project App.js present in file/src with the Repository App.js.
+- Run the Java Application: You can run your Java application directly from Visual Studio Code. Open the Java file containing your main method, right-click, and select "Run Java". Alternatively, you can use the integrated terminal to compile and run your Java program manually.
